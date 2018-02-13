@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SearchBar</string>
+    <string name="search_icon">search_icon</string>
+    <string name="search_hint">Simple search</string>
+    <string-array name="query_suggestions">
+        <item>Hello</item>
+        <item>You</item>
+        <item>Are</item>
+        <item>The</item>
+        <item>Best</item>
+        <item>Sadu</item>
+    </string-array>
+</resources>
